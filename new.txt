@@ -1,2 +1,4 @@
 This is a new file.
 Made update by Arthur.
+
+Going to test the stash command.
